@@ -54,7 +54,3 @@ Our top 5 products by order volume are a mix of milk and curd products. The Am M
 ## Recommedations
 
 Through this project, we hope to provide AtliQ Mart with the insights they need to optimize their supply chain operations and make data-driven decisions.
-
-## Future Work
-
-Going forward, we plan to incorporate more data sources into our analysis and create more complex visualizations to provide even deeper insights into the supply chain operations.
