@@ -18,7 +18,7 @@ To address this issue, the management has requested their supply chain analytics
     2. Presentation:
         A clear and concise presentation that summarizes the key findings and insights from the dashboard.
 
-## Data Structure and Overview
+## Data Structure Overview
 
 The data used in this project comes from various sources within AtliQ Mart's operations, including sales data, inventory data, and more. This data is then processed and visualized in Power BI ans has more than 100,000 rows.
 
