@@ -22,7 +22,7 @@ To address this issue, the management has requested their supply chain analytics
 
 The data used in this project comes from various sources within AtliQ Mart's operations, including sales data, inventory data, and more. This data is then processed and visualized in Power BI ans has more than 100,000 rows.
 
-
+![Image Description](https://github.com/Sherwin-14/Atliq_Mart/blob/master/Images/data%20-%20model.png)
 
 ## Executive Summary
 
@@ -51,7 +51,7 @@ Our top 5 products by order volume are a mix of milk and curd products. The Am M
 
 
 
-## Conclusion
+## Recommedations
 
 Through this project, we hope to provide AtliQ Mart with the insights they need to optimize their supply chain operations and make data-driven decisions.
 
